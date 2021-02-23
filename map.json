@@ -204,7 +204,7 @@
         {
          "columns":40,
          "firstgid":1,
-         "image":"assets\/modern_tileset_darkmode.png",
+         "image":"modern_tileset_darkmode.png",
          "imageheight":1856,
          "imagewidth":1280,
          "margin":0,
@@ -722,7 +722,7 @@
         {
          "columns":16,
          "firstgid":2321,
-         "image":"assets\/modern_interiors_nightmode.png",
+         "image":"modern_interiors_nightmode.png",
          "imageheight":13024,
          "imagewidth":512,
          "margin":0,
@@ -59344,7 +59344,7 @@
         {
          "columns":16,
          "firstgid":8833,
-         "image":"assets\/youniverse-tileset.png",
+         "image":"youniverse-tileset.png",
          "imageheight":640,
          "imagewidth":512,
          "margin":0,
@@ -59448,7 +59448,7 @@
         {
          "columns":15,
          "firstgid":9153,
-         "image":"assets\/city_bg.png",
+         "image":"city_bg.png",
          "imageheight":710,
          "imagewidth":500,
          "margin":0,
